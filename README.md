@@ -1,4 +1,7 @@
 ### Hi there 👋
+![Total visitor](https://visitor-count-badge.herokuapp.com/total.svg?repo_id=${shenxingchao/vue-element-visual-layout})
+
+
 
 <!--
 **shenxingchao/shenxingchao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
