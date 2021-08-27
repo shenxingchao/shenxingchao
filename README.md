@@ -1,6 +1,4 @@
 ### Hi there 👋
-![Total visitor](https://visitor-count-badge.herokuapp.com/total.svg?repo_id=${shenxingchao/vue-element-visual-layout})
-
 
 
 <!--
